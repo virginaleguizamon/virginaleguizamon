@@ -1,7 +1,7 @@
 🪐Soy Virginia Leguizamón.
-🤟Estudiante de Desarrollo FrontEnd en Coder House.
-🧠Actualmente cursando JavaScript.
-👀Puedes contactarme a: leguizamonv500@gmail.com
+🤟Estudiante de Desarrollo Frontend en Coder House.
+🧠Actualmente con los siguientes cursos finalizados: Desarrollo Web y JavaScript.
+👀Puedes contactarme en: leguizamonv500@gmail.com
 
 
 <!---
